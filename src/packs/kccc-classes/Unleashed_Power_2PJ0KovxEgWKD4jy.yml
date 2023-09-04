@@ -1,0 +1,82 @@
+_id: 2PJ0KovxEgWKD4jy
+name: Unleashed Power
+type: feat
+img: icons/magic/lightning/projectile-tendrils-teal.webp
+data:
+  description:
+    value: >-
+      <p>Starting at 14th level, when rolling damage for Thundermonger or your
+      Stormforged Weapon, you can expend a spell slot to reroll a number of the
+      damage dice up to your Intelligence modifier (minimum of one) and maximize
+      a number of dice equal to the level of the spell slot expended. (You may
+      maximize the dice rerolled this way, or the dice that were not rerolled)
+      You must use the new rolls.</p>
+    chat: ''
+    unidentified: ''
+  source: Thundersmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Thundersmith 14
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.MfJR8gUbW1aDgrSt
+_key: '!items!2PJ0KovxEgWKD4jy'

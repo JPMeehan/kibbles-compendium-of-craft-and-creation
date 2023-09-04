@@ -1,0 +1,82 @@
+_id: dLNpG7oKq53TWQqo
+name: 'Upgrade: Arcane Ammunition'
+type: feat
+img: icons/weapons/ammunition/arrow-broadhead-glowing-orange.webp
+data:
+  description:
+    value: >-
+      <p>You infuse a ranged weapon with special, arcane magic. The weapon no
+      longer requires ammunition to fire, as it creates magical ammunition when
+      you fire it, and whenever you hit a target with this magical ammunition,
+      the attack deals force damage, instead of the weapon’s normal damage type.
+      Additionally, if the weapon had the loading property, it no longer has
+      that property.</p>
+    chat: ''
+    unidentified: ''
+  source: Infusionsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Infusionsmith 5
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.oJhhx4XPBBfdMRga
+_key: '!items!dLNpG7oKq53TWQqo'

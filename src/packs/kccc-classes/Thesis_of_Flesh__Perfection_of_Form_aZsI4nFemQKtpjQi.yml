@@ -1,0 +1,81 @@
+_id: aZsI4nFemQKtpjQi
+name: 'Thesis of Flesh: Perfection of Form'
+type: feat
+img: icons/creatures/claws/claw-hooked-purple.webp
+data:
+  description:
+    value: "<p>Nature had its chance to make your form, now it’s your turn to improve it. When you take this path, you gain the Fleshcrafted Mutation upgrade, and it doesn’t count against your upgrade total. Additionally, when an upgrade calls to use your spell save DC, you can instead use 8 + your Constitution modifier + your proficiency bonus.</p>\n<p>When you take the Attack action, you can use your bonus action to make a single additional attack with this upgrade. You can make this additional attack a number of times equal to your Inventor level. You regain all uses at the end of a long rest.</p>\n<p>\_</p>"
+    chat: ''
+    unidentified: ''
+  source: Fleshsmith
+  activation:
+    type: bonus
+    cost: 1
+    condition: ''
+  duration:
+    value: null
+    units: inst
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: 1
+    max: '@classes.inventor.levels'
+    per: lr
+  consume:
+    type: ''
+    target: ''
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Fleshsmith 1
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+    quickCharges:
+      value:
+        use: true
+      altValue:
+        use: true
+  core:
+    sourceId: Item.mHGW7D8iSARpxmZo
+_key: '!items!aZsI4nFemQKtpjQi'

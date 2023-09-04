@@ -1,0 +1,104 @@
+_id: lmfWCWcM9P5ovloZ
+name: Dragon Draught
+type: feat
+img: icons/magic/fire/blast-jet-stream-embers-orange.webp
+data:
+  description:
+    value: >-
+      <p>As an action, you can quaff a vial of highly reactive liquid, allowing
+      you to immediately belch a blast of devastating elemental energy. Choose
+      one of the following damage types: acid, cold, fire, or lightning.</p>
+
+      <p>If you choose cold or fire damage, the area of effect is a 10-foot
+      cone; if you choose acid or lightning damage, the area of effect is a
+      15-foot line. Each creature in the area must succeed on a Dexterity saving
+      throw against your spell save DC or take 1d8 damage of the chosen
+      type.</p>
+
+      <p>The damage increases by 1d8 when you reach 5th level (2d8), 11th level
+      (3d8), and 17th level (4d8).</p>
+    chat: ''
+    unidentified: ''
+  source: Potionsmith
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  duration:
+    value: null
+    units: inst
+  target:
+    value: 15
+    width: null
+    units: ft
+    type: cone
+  range:
+    value: null
+    long: null
+    units: self
+  uses:
+    value: null
+    max: ''
+    per: ''
+  consume:
+    type: ''
+    target: ''
+    amount: null
+  ability: ''
+  actionType: save
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - - 1d8
+        - fire
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Potionsmith 1
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+      context: ''
+    quickFlavor:
+      value: true
+      altValue: true
+    quickTemplate:
+      value: true
+      altValue: true
+    quickSave:
+      value: true
+      altValue: true
+    quickDamage:
+      context:
+        '0': ''
+      value:
+        '0': true
+      altValue:
+        '0': true
+  core:
+    sourceId: Item.ww4JmEJgS0YDUDaq
+_key: '!items!lmfWCWcM9P5ovloZ'

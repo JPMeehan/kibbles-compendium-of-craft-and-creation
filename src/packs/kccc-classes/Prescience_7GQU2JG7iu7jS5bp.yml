@@ -1,0 +1,86 @@
+_id: 7GQU2JG7iu7jS5bp
+name: Prescience
+type: feat
+img: icons/magic/perception/eye-slit-orange.webp
+data:
+  description:
+    value: >-
+      <p>Your eyes wander to events before they happen. You can add your
+      proficiency to Perception and initiative rolls; if you already are able to
+      add your proficiency to Perception, you can add twice your
+      proficiency.</p>
+
+      <p>If you concentrate on keeping an eye on the future (as if concentrating
+      on a spell), you can use your Intelligence modifier for Wisdom
+      (Perception) checks (instead of Wisdom) and initiative rolls (instead of
+      Dexterity), and you make Intelligence saving throws in place of Dexterity
+      saving throws. You can initiate this concentration at any time.</p>
+    chat: ''
+    unidentified: ''
+  source: ''
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: ''
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.TwvwUvyIR1eepFG6
+_key: '!items!7GQU2JG7iu7jS5bp'

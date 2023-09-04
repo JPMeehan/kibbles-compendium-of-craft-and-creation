@@ -1,0 +1,81 @@
+name: 'Upgrade: Mark of Messaging'
+type: feat
+img: icons/magic/symbols/runes-triangle-blue.webp
+data:
+  description:
+    value: >-
+      <p>You can place a special runic mark on a creature or item. This mark
+      lasts until you mark it again or take a long rest. Subsequently you can
+      cast the message spell targeting the marked creature, or a creature
+      carrying the marked item, regardless of distance between you and the
+      target.</p>
+    chat: ''
+    unidentified: ''
+  source: Runesmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Runesmith 3
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.ekMP0IsGfc45PAUj
+_id: MyTu3XsjFvq7sk6q
+_key: '!items!MyTu3XsjFvq7sk6q'

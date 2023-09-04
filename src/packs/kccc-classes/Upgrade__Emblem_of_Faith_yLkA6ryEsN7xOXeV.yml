@@ -1,0 +1,81 @@
+name: 'Upgrade: Emblem of Faith'
+type: feat
+img: icons/commodities/treasure/totem-wooden-glowing-yellow.webp
+data:
+  description:
+    value: >-
+      <p>You forge a special emblem that serves as the bane of extraplanar
+      creatures. You can cast @Compendium[dnd5e.spells.TkJ8Wtg1L7TZtspm]{Dispel
+      Evil and Good} once without expending a spell slot. Once you use this to
+      cast the spell, you can’t do so again until you finish a short or long
+      rest.</p>
+    chat: ''
+    unidentified: ''
+  source: Relicsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Relicsmith 11
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.gH45KtuRvkIWPh1j
+_id: yLkA6ryEsN7xOXeV
+_key: '!items!yLkA6ryEsN7xOXeV'

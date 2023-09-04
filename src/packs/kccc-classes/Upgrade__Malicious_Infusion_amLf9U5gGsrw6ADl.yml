@@ -1,0 +1,80 @@
+_id: amLf9U5gGsrw6ADl
+name: 'Upgrade: Malicious Infusion'
+type: feat
+img: icons/magic/fire/flame-burning-creature-skeleton.webp
+data:
+  description:
+    value: >-
+      <p>You learn the@Compendium[dnd5e.spells.2yHXEcrRbadZDr5M]{Heat Metal}
+      spell. Additionally, as a reaction to being hit by a metal weapon, you can
+      cast heat metal targeting the weapon that struck you, expending a spell
+      slot as normal.</p>
+    chat: ''
+    unidentified: ''
+  source: Infusionsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Infusionsmith 5
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.B1Kaa7xnJFImI7qK
+_key: '!items!amLf9U5gGsrw6ADl'

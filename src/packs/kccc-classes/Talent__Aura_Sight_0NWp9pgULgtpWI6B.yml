@@ -1,0 +1,85 @@
+_id: 0NWp9pgULgtpWI6B
+name: 'Talent: Aura Sight'
+type: feat
+img: icons/magic/perception/orb-crystal-ball-scrying-blue.webp
+data:
+  description:
+    value: >-
+      <p>As an action, you can spend 1 psi point to psionically see the aura of
+      a creature of your choice within 30 feet. When you see the creature’s aura
+      in this way, you can determine if there are any spells or magical effects
+      affecting the creature, and you learn their schools of magic, if any. You
+      can also determine if the creature is under the influence of psionics. A
+      shapeshifter or creature that is transformed or disguised by magical or
+      nonmagical means must make a Charisma (Deception) check against your
+      Psionics save DC. On a failure, you can perceive their original form in
+      their aura.</p>
+    chat: ''
+    unidentified: ''
+  source: Psion
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Psion 1
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.XrxL0YXbZnT6QEmF
+_key: '!items!0NWp9pgULgtpWI6B'

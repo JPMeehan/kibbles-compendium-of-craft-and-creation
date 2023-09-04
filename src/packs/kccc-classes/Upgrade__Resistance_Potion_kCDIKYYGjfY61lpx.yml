@@ -1,0 +1,81 @@
+_id: kCDIKYYGjfY61lpx
+name: 'Upgrade: Resistance Potion'
+type: feat
+img: icons/consumables/potions/potion-bottle-corked-fancy-orange.webp
+data:
+  description:
+    value: >-
+      <p>You create a formula for making a simplified temporary resistance
+      potion. During a long rest, you can create a potion that grants the
+      drinker resistance to acid, cold, fire, lighting, poison, or thunder
+      damage (selected during the long rest) for 10 minutes when consumed. If
+      not consumed, it loses potency when you finish your next long rest.</p>
+    chat: ''
+    unidentified: ''
+  source: Potionsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Potionsmith 5
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.zcFUFVixTJBypbNd
+_key: '!items!kCDIKYYGjfY61lpx'

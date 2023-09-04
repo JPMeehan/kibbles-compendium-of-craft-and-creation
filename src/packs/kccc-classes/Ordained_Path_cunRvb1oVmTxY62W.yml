@@ -1,0 +1,84 @@
+name: Ordained Path
+type: feat
+img: icons/magic/holy/prayer-hands-glowing-yellow.webp
+data:
+  description:
+    value: >-
+      <p>Additionally at 3rd level, the gifts of your Divine Relic lead you to a
+      revelation of faith. Select a path to follow.</p>
+
+      <p>@Item[RcJhel7m8BNweGHU]{Ordained Path: Path of Justice}</p>
+
+      <p>@Item[cbGj3d3Wm5Q8Hkg9]{Ordained Path: Path of Salvation}</p>
+
+      <p>@Item[h9F0Rk3FjoaObe7A]{Ordained Path: Path of Penance}</p>
+    chat: ''
+    unidentified: ''
+  source: Relicsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Relicsmith 3
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.wUFjdRQhkWMItuLW
+_id: cunRvb1oVmTxY62W
+_key: '!items!cunRvb1oVmTxY62W'

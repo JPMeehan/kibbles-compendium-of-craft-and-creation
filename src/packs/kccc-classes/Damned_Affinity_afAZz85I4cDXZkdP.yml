@@ -1,0 +1,79 @@
+name: Damned Affinity
+type: feat
+img: icons/magic/unholy/orb-contained-pink.webp
+data:
+  description:
+    value: >-
+      <p>Additionally at 3rd level, magical items granted by this subclass that
+      require attunement do not count against your attunement total if that item
+      is cursed.</p>
+    chat: ''
+    unidentified: ''
+  source: Cursesmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Cursesmith 3
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.mHmIxnIrFO67ad8X
+_id: afAZz85I4cDXZkdP
+_key: '!items!afAZz85I4cDXZkdP'

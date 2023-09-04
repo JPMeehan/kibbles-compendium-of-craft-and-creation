@@ -1,0 +1,84 @@
+_id: OIIef7LMwRsYLV0J
+name: 'Talent: Iron Templar'
+type: feat
+img: icons/equipment/chest/breastplate-layered-steel.webp
+data:
+  description:
+    value: >-
+      <p>You gain proficiency with medium armor and shields. If you already have
+      proficiency with medium armor, you gain proficiency with heavy armor. You
+      can perform somatic components for psionic powers with a hand carrying a
+      weapon.</p>
+
+      <p>Additionally, when you hit a creature with a melee weapon attack or
+      with a spell attack with a range of touch, you can use your Denial power
+      as a bonus action targeting that creature.</p>
+    chat: ''
+    unidentified: ''
+  source: Nullification
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Nullification 2
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.tG8RBQY3O277F9nM
+_key: '!items!OIIef7LMwRsYLV0J'

@@ -1,0 +1,98 @@
+_id: 01205p8KbdWmDUlY
+name: 'Upgrade: Thundering Stomp'
+type: feat
+img: icons/magic/sonic/explosion-shock-sound-wave.webp
+data:
+  description:
+    value: >-
+      <p>Your golem can leverage its increased size and magical nature, allowing
+      it to replace any attack it makes as part of the Attack action with a
+      crushing stomp of magical energy as it brings down its foot. When it does
+      so, each creature within 5 feet of the golem, other than itself, must
+      succeed on a Consti-tution saving throw against your spell save DC or take
+      1d6 thunder damage.</p>
+    chat: ''
+    unidentified: ''
+  source: Golemsmith
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  duration:
+    value: null
+    units: inst
+  target:
+    value: 5
+    width: null
+    units: ft
+    type: radius
+  range:
+    value: null
+    long: null
+    units: self
+  uses:
+    value: null
+    max: ''
+    per: ''
+  consume:
+    type: ''
+    target: ''
+    amount: null
+  ability: ''
+  actionType: save
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - - 1d6
+        - thunder
+    versatile: ''
+  formula: ''
+  save:
+    ability: con
+    dc: null
+    scaling: spell
+  requirements: Golemsmith 11
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+      context: ''
+    quickFlavor:
+      value: true
+      altValue: true
+    quickTemplate:
+      value: true
+      altValue: true
+    quickSave:
+      value: true
+      altValue: true
+    quickDamage:
+      context:
+        '0': ''
+      value:
+        '0': true
+      altValue:
+        '0': true
+  core:
+    sourceId: Item.9AQM5Y0yBE4FmvXv
+_key: '!items!01205p8KbdWmDUlY'

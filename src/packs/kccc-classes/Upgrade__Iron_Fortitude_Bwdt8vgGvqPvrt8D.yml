@@ -1,0 +1,80 @@
+name: 'Upgrade: Iron Fortitude'
+type: feat
+img: icons/equipment/hand/gauntlet-armored-steel-grey.webp
+data:
+  description:
+    value: >-
+      <p>You gain an unnatural durability. When damage reduces you to 0 hit
+      points, you make a Constitution saving throw with a DC of 5 + the damage
+      taken, unless the damage is from a critical hit. On a success, you drop to
+      1 hit point instead.</p>
+    chat: ''
+    unidentified: ''
+  source: Warsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Warsmith 3
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.QrsxBxYBYazqHBEr
+_id: Bwdt8vgGvqPvrt8D
+_key: '!items!Bwdt8vgGvqPvrt8D'

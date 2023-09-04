@@ -1,0 +1,82 @@
+name: 'Upgrade: Lightning Rod'
+type: feat
+img: icons/magic/lightning/bolt-strike-sparks-teal.webp
+data:
+  description:
+    value: >-
+      <p><em>(Prerequisite: Lightning Channel)</em></p>
+
+      <p>Whenever you cast
+      @Compendium[kibbles-compendium-of-craft-and-creation.kccc-spells.KPD2lGomCEvma7Nj]{Lightning
+      Charged}, you can treat the spell as if it was cast by a spell slot one
+      level higher.</p>
+    chat: ''
+    unidentified: ''
+  source: Warsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Warsmith 14
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.YSCnmrXMmfqsu2zU
+_id: MixLPI1hBobvFIcO
+_key: '!items!MixLPI1hBobvFIcO'

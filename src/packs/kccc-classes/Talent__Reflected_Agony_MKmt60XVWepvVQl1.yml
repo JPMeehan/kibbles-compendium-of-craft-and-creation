@@ -1,0 +1,91 @@
+_id: MKmt60XVWepvVQl1
+name: 'Talent: Reflected Agony'
+type: feat
+img: icons/skills/wounds/injury-pain-body-orange.webp
+data:
+  description:
+    value: >-
+      <p>When a creature within 120 feet that you can see deals damage to you,
+      you can use your reaction to spend 1 or more psi points (up to your psi
+      limit) to share the pain you experienced back at them, dealing 1d10
+      psychic damage per point spent. The damage this deals can’t exceed the
+      damage taken from the attack.</p>
+    chat: ''
+    unidentified: ''
+  source: Telepathy
+  activation:
+    type: reaction
+    cost: 1
+    condition: ''
+  duration:
+    value: null
+    units: inst
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 120
+    long: null
+    units: ft
+  uses:
+    value: null
+    max: ''
+    per: ''
+  consume:
+    type: ''
+    target: ''
+    amount: null
+  ability: ''
+  actionType: other
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - - 1d10
+        - psychic
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Telepathy 2
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+      context: ''
+    quickFlavor:
+      value: true
+      altValue: true
+    quickDamage:
+      context:
+        '0': ''
+      value:
+        '0': true
+      altValue:
+        '0': true
+  core:
+    sourceId: Item.Fu3aMN57odWMTBkq
+_key: '!items!MKmt60XVWepvVQl1'

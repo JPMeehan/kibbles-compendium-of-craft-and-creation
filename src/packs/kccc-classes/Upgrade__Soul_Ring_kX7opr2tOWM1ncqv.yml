@@ -1,0 +1,92 @@
+name: 'Upgrade: Soul Ring'
+type: feat
+img: icons/equipment/finger/ring-band-engraved-teal.webp
+data:
+  description:
+    value: >-
+      <p>You create a ring to store your soul. While wearing this ring, you have
+      advantage on death saving throws. You can absorb yourself, your body, and
+      equipment into the ring. When you do so, it gains weight equal to one
+      tenth of your weight (including your equipment). While absorbed into the
+      ring, you share the senses of a creature wearing the ring, and communicate
+      telepathically with them, but are otherwise only have a blindsight of 5
+      feet, and cannot take any actions that would require you to have a body.
+      You exit the ring as an action, appearing within 5 feet of the ring.</p>
+
+      <p>While another creature is wearing the ring, you can attempt to possess
+      them. They make a Charisma saving throw. On a failed save, they fall under
+      the effect of a @Compendium[dnd5e.spells.eEpy1ONlXumKS1mp]{Dominate
+      Monster} spell as if you had cast it. Your body disappears (if it was not
+      already absorbed into the ring, and you cannot take any actions other than
+      to control the dominated creature (as per the spell). A creature can
+      choose to fail their save against this.</p>
+    chat: ''
+    unidentified: ''
+  source: Cursesmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Cursesmith 5
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.i99PaPJTmfk1ppTb
+_id: kX7opr2tOWM1ncqv
+_key: '!items!kX7opr2tOWM1ncqv'

@@ -1,0 +1,87 @@
+_id: JXY4f59MOuWCyO8S
+name: 'Upgrade: Animated Shield'
+type: feat
+img: icons/equipment/shield/heater-steel-segmented-purple.webp
+data:
+  description:
+    value: >-
+      <p>You apply your animation magic to a shield. At the end of a long rest,
+      you can touch a shield, causing it to spring to life and protect you until
+      you finish your next long rest. While it is protecting you, you gain the
+      benefits of the shield as if you were wielding it. As usual, you can
+      benefit from only one shield at a time.</p>
+
+      <p>While you have an animated shield, you can also send it to defend your
+      allies. When a creature you can see attacks a target other than you that
+      is within 30 feet of you, you can use your reaction to impose disadvantage
+      on the attack roll. When you do so, you lose the benefits of the animated
+      shield until the start of your next turn.</p>
+    chat: ''
+    unidentified: ''
+  source: Infusionsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Infusionsmith 5
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.RLJdJjz03zorNnR7
+_key: '!items!JXY4f59MOuWCyO8S'

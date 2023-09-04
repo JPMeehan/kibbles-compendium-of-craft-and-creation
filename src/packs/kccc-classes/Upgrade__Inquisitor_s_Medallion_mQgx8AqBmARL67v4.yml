@@ -1,0 +1,82 @@
+name: 'Upgrade: Inquisitor’s Medallion'
+type: feat
+img: icons/commodities/treasure/medal-ribbon-gold-red.webp
+data:
+  description:
+    value: >-
+      <p>You build a specialized version of your relic that focuses your zeal
+      for the truth. While carrying it, you can add your Intelligence modifier
+      to Wisdom (Insight) checks, and gain the ability to cast zone of truth.
+      You can use this to cast @Compendium[dnd5e.spells.CylBa7jR8DSbo8Z3]{Zone
+      of Truth} without expending a spell slot. Once you cast it in this way, it
+      requires a spell slot as normal until you finish a short or long rest.</p>
+    chat: ''
+    unidentified: ''
+  source: Relicsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Relicsmith 3
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  core:
+    sourceId: Item.dV68cwEfOUgKAutV
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+_id: mQgx8AqBmARL67v4
+_key: '!items!mQgx8AqBmARL67v4'

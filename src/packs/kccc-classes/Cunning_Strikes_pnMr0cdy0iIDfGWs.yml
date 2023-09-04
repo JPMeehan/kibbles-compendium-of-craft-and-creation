@@ -1,0 +1,80 @@
+name: Cunning Strikes
+type: feat
+img: icons/magic/movement/trail-streak-pink.webp
+data:
+  description:
+    value: >-
+      <p>Starting at 3rd level, you gain the Rift Strike talent. If you already
+      have the Rift Strike talent, you can gain one other Psionic Talent of your
+      choice. The Rift Strike talent doesn’t count against your Psionic Talents
+      known, but can’t be switched out on leveling up.</p>
+    chat: ''
+    unidentified: ''
+  source: Wandering Mind
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Wandering Mind 3
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.OwRSL4jv4a0MYI3j
+_id: pnMr0cdy0iIDfGWs
+_key: '!items!pnMr0cdy0iIDfGWs'

@@ -1,0 +1,81 @@
+_id: CHVwK9pLHmfTqZmQ
+name: Unstoppable Rampage
+type: feat
+img: icons/skills/social/intimidation-impressing.webp
+data:
+  description:
+    value: >-
+      <p>Starting at 14th level, when an attack reduces you to zero hit points,
+      you can roll your rampage die. If your roll + your Constitution modifier
+      is higher than the excess damage you took, you are instead reduced to one
+      hit point. You can expend 2 psi points to roll an additional rampage die,
+      adding it to the result.</p>
+    chat: ''
+    unidentified: ''
+  source: Unleashed
+  activation:
+    type: none
+    cost: 1
+    condition: ''
+  duration:
+    value: null
+    units: inst
+  target:
+    value: null
+    width: null
+    units: ''
+    type: self
+  range:
+    value: null
+    long: null
+    units: self
+  uses:
+    value: null
+    max: ''
+    per: ''
+  consume:
+    type: ''
+    target: ''
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Unleashed 14
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.P8DtWgzzCuiQyW9R
+_key: '!items!CHVwK9pLHmfTqZmQ'

@@ -1,0 +1,76 @@
+_id: 5x8pRX8CmjNIiJJw
+name: Full Awakening
+type: feat
+img: icons/magic/perception/third-eye-blue-red.webp
+data:
+  description:
+    value: "<p>Starting at 14th level, you can briefly fully awaken your expanded mind to true comprehension. At the start of your turn, you can expend 2 psi points to gain advantage on all saving throws and attack rolls until the start of your next turn.</p>\n<p>\_</p>"
+    chat: ''
+    unidentified: ''
+  source: Awakened Mind
+  activation:
+    type: none
+    cost: 1
+    condition: Start of your turn
+  duration:
+    value: 1
+    units: turn
+  target:
+    value: null
+    width: null
+    units: ''
+    type: self
+  range:
+    value: null
+    long: null
+    units: self
+  uses:
+    value: null
+    max: ''
+    per: ''
+  consume:
+    type: ''
+    target: ''
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Awakened Mind 14
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.Tw6VeoXLrZ9NQLL7
+_key: '!items!5x8pRX8CmjNIiJJw'

@@ -1,0 +1,85 @@
+_id: tiH8PoVrtwBg6xJQ
+name: Psionic Mastery
+type: feat
+img: icons/magic/unholy/orb-contained-pink.webp
+data:
+  description:
+    value: >-
+      <p>When you reach 5th level, you gain mastery of your psionic powers. At
+      the start of your turn you get 1 free psi point. This can be spent to
+      empower psionic disciplines, but not to recreate spells or fuel Psionic
+      Talents. If you have any unspent free psi points granted by this feature
+      left at the end of your turn, then they are lost.</p>
+
+      <p>At 11th level, this is increased to 2 free psi points, and at 17th
+      level, this is increased to 3. Points can be split between different
+      abilities.</p>
+    chat: ''
+    unidentified: ''
+  source: Psion
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Psion 5
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.hyoGp2BQ9MCfN25X
+_key: '!items!tiH8PoVrtwBg6xJQ'

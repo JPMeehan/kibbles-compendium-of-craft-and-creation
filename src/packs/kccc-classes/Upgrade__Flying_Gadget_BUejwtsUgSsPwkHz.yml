@@ -1,0 +1,81 @@
+_id: BUejwtsUgSsPwkHz
+name: 'Upgrade: Flying Gadget'
+type: feat
+img: icons/creatures/abilities/wings-birdlike-blue.webp
+data:
+  description:
+    value: >-
+      <p>You build a device that allows you to fly, such as deployable
+      artificial wings. You can activate this device as a bonus action, or as a
+      reaction when you fall. Whatever form the device takes, when it’s
+      activated, you gain a flying speed of 30 feet, which lasts until you
+      choose to deactivate it (no action required).</p>
+    chat: ''
+    unidentified: ''
+  source: Gadgetsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Gadgetsmith 11
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.82mnkfl5oATQ1vm0
+_key: '!items!BUejwtsUgSsPwkHz'

@@ -1,0 +1,80 @@
+_id: FaTuUEDwYwArscJW
+name: 'Upgrade: Sight Lenses'
+type: feat
+img: icons/equipment/head/goggles-leather-blue.webp
+data:
+  description:
+    value: >-
+      <p>You create a cloak that causes you to blend in with smoke. When you are
+      lightly or heavily obscured by smoke at the start of your turn, you are
+      invisible until your turn ends, or until you cast a spell, make an attack,
+      or deal damage to a creature.</p>
+    chat: ''
+    unidentified: ''
+  source: Gadgetsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Gadgetsmith 1
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.jBf3ERfXpdjcOjKc
+_key: '!items!FaTuUEDwYwArscJW'

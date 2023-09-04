@@ -1,0 +1,91 @@
+_id: 7iJp2tqXTjnwNg6I
+name: 'Upgrade: Powered Charge'
+type: feat
+img: icons/skills/movement/arrow-upward-yellow.webp
+data:
+  description:
+    value: >-
+      <p>You improve your golem’s charging capabilities, increasing its walking
+      speed by 5 feet. If your golem has a walking speed of 40 feet or higher
+      after taking this upgrade, it gains the Forceful Slam trait below. You can
+      select this upgrade up to two times.</p>
+
+      <p><strong>Forceful Slam.</strong> If the golem moves at least 20 feet
+      straight toward a target and then immediately hits it with a melee attack,
+      the target must succeed on a Strength saving throw (DC 8 + the golem’s
+      proficiency bonus + its Strength modifier) or be knocked prone.</p>
+    chat: ''
+    unidentified: ''
+  source: Golemsmith
+  activation:
+    type: none
+    cost: 1
+    condition: >-
+      If the golem moves at least 20 feet straight toward a target and then
+      immediately hits it with a melee attack
+  duration:
+    value: null
+    units: inst
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 5
+    long: null
+    units: ft
+  uses:
+    value: null
+    max: ''
+    per: ''
+  consume:
+    type: ''
+    target: ''
+    amount: null
+  ability: ''
+  actionType: save
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: str
+    dc: null
+    scaling: spell
+  requirements: Golemsmith 9
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+      context: ''
+    quickFlavor:
+      value: true
+      altValue: true
+    quickSave:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.K1GPIqrVJEmReG3i
+_key: '!items!7iJp2tqXTjnwNg6I'

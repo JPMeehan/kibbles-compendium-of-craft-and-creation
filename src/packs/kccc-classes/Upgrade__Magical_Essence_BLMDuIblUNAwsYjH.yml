@@ -1,0 +1,78 @@
+_id: BLMDuIblUNAwsYjH
+name: 'Upgrade: Magical Essence'
+type: feat
+img: icons/magic/light/explosion-star-blue-large.webp
+data:
+  description:
+    value: >-
+      <p>You infuse a fragment of magical essence into your golem, allowing it
+      to attune to one magic item. This follows all normal attunement rules.</p>
+    chat: ''
+    unidentified: ''
+  source: Golemsmith
+  activation:
+    type: ''
+    cost: 0
+    condition: ''
+  duration:
+    value: null
+    units: ''
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: ''
+  attackBonus: 0
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: []
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+  requirements: Golemsmith 3
+  recharge:
+    value: null
+    charged: false
+effects: []
+folder: null
+sort: 0
+permission:
+  default: 0
+  ZltBRX3qCs8ZDdsL: 3
+flags:
+  betterRolls5e:
+    quickDesc:
+      value: true
+      altValue: true
+    quickProperties:
+      value: true
+      altValue: true
+    quickOther:
+      value: true
+      altValue: true
+    quickFlavor:
+      value: true
+      altValue: true
+  core:
+    sourceId: Item.eJrd8UMIKt2Xf9Om
+_key: '!items!BLMDuIblUNAwsYjH'
